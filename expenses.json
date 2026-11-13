@@ -1,0 +1,56 @@
+[
+    {
+        "date": "2026-11-12 14:59",
+        "description": "coffe",
+        "category": "Food",
+        "amount": 100.0
+    },
+    {
+        "date": "2026-11-12 15:00",
+        "description": "mil",
+        "category": "Food",
+        "amount": 50.0
+    },
+    {
+        "date": "2026-11-12 15:00",
+        "description": "pencil",
+        "category": "Bills",
+        "amount": 10.0
+    },
+    {
+        "date": "2026-11-12 15:01",
+        "description": "shooping",
+        "category": "Bills",
+        "amount": 20000.0
+    },
+    {
+        "date": "2026-11-12 15:01",
+        "description": "trip",
+        "category": "Bills",
+        "amount": 10000.0
+    },
+    {
+        "date": "2026-11-12 15:01",
+        "description": "groceries",
+        "category": "2000",
+        "amount": 2000.0
+    },
+    {
+        "date": "2026-11-13 10:12",
+        "description": "coffee",
+        "category": "Food",
+        "amount": 100.0
+    },
+    {
+        "date": "2026-11-13 10:12",
+        "description": "groceries",
+        "category": "Bills",
+        "amount": 2000.0
+    },
+    {
+        "date": "2026-11-13 10:12",
+        "description": "trip",
+        "category": "Bills",
+        "amount": 10000.0
+    }
+]
